@@ -5,3 +5,12 @@ ARQUIVOS
 * GdriveAtualizar.sh (envia arquvio local para nuvem)
 * gdriveBaixar.sh (baixa arquivo da nuvem)
 * gdriveDeletar.sh (exclui arquivo em nuvem)
+* gdriveListar.sh (mostra na tela lista dos arquviso)
+* gdriveSubir.sh (faz upload local para nuvem)
+* lista_drive.txt (armazena localmente resultado da consulta)
+* validacao.txt (armazena localmente log )
+
+TAREFAS
+---
+- [ ] melhorar interface
+- [ ] bug de login
